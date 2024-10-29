@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E30EBEF-0863-43C0-85DF-E9D42926176D}|CrudC#ComRotas.csproj|c:\\users\\admin\\source\\repos\\backend\\controler\\controler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E30EBEF-0863-43C0-85DF-E9D42926176D}|CrudC#ComRotas.csproj|solutionrelative:controler\\controler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E30EBEF-0863-43C0-85DF-E9D42926176D}|CrudC#ComRotas.csproj|c:\\users\\admin\\source\\repos\\backend\\connector\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E30EBEF-0863-43C0-85DF-E9D42926176D}|CrudC#ComRotas.csproj|solutionrelative:connector\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E30EBEF-0863-43C0-85DF-E9D42926176D}|CrudC#ComRotas.csproj|c:\\users\\admin\\source\\repos\\backend\\dao\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E30EBEF-0863-43C0-85DF-E9D42926176D}|CrudC#ComRotas.csproj|solutionrelative:dao\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E30EBEF-0863-43C0-85DF-E9D42926176D}|CrudC#ComRotas.csproj|c:\\users\\admin\\source\\repos\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E30EBEF-0863-43C0-85DF-E9D42926176D}|CrudC#ComRotas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E30EBEF-0863-43C0-85DF-E9D42926176D}|CrudC#ComRotas.csproj|c:\\users\\admin\\source\\repos\\backend\\crudc#comrotas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E30EBEF-0863-43C0-85DF-E9D42926176D}|CrudC#ComRotas.csproj|solutionrelative:crudc#comrotas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 191,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "produtoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\backend\\dao\\produtoDAO.cs",
+              "RelativeDocumentMoniker": "dao\\produtoDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\backend\\dao\\produtoDAO.cs",
+              "RelativeToolTip": "dao\\produtoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:28:29.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T02:41:12.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrudC#ComRotas.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\backend\\CrudC#ComRotas.csproj",
+              "RelativeDocumentMoniker": "CrudC#ComRotas.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\backend\\CrudC#ComRotas.csproj",
+              "RelativeToolTip": "CrudC#ComRotas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T02:35:48.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "connector.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\backend\\connector\\connector.cs",
+              "RelativeDocumentMoniker": "connector\\connector.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\backend\\connector\\connector.cs",
+              "RelativeToolTip": "connector\\connector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:00:36.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "controler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\backend\\controler\\controler.cs",
+              "RelativeDocumentMoniker": "controler\\controler.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\backend\\controler\\controler.cs",
+              "RelativeToolTip": "controler\\controler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:59:18.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

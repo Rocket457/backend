@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\CrudC#ComRotas\obj\Release\net8.0\PubTmp\Out\CrudC#ComRotas.exe
+C:\Users\Admin\source\repos\CrudC#ComRotas\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Admin\source\repos\CrudC#ComRotas\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Admin\source\repos\CrudC#ComRotas\obj\Release\net8.0\PubTmp\Out\CrudC#ComRotas.dll
+C:\Users\Admin\source\repos\CrudC#ComRotas\obj\Release\net8.0\PubTmp\Out\CrudC#ComRotas.deps.json
+C:\Users\Admin\source\repos\CrudC#ComRotas\obj\Release\net8.0\PubTmp\Out\CrudC#ComRotas.runtimeconfig.json
+C:\Users\Admin\source\repos\CrudC#ComRotas\obj\Release\net8.0\PubTmp\Out\CrudC#ComRotas.pdb
